@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CatchMoment</string>
+    <string name="input_text">Введите текст</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_story">История</string>
+    <string name="action_cat_female">Кошка</string>
+</resources>
